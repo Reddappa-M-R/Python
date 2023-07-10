@@ -1,0 +1,19 @@
+# slicing = create a substring by extracting elements from another string
+#              indexing[] or silce()
+#              [start:stop:step]
+name = "Rocky Reddy"
+
+first_name = name[:5]
+last_name = name[6:]
+funky_name = name[0:7:2]
+reversed_name = name[::-1]
+
+print(first_name)
+print(last_name)
+print(funky_name)
+print(reversed_name)
+
+website = "https://google.com
+
+slice = slice(7,-4)
+print(website[slice])
