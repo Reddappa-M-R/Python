@@ -1,0 +1,11 @@
+# Multiple assignment
+
+#name = "Rocky"
+#age = 23
+#attractive = True
+
+name,age,attractive = "Rocky",23,True
+
+print(name)
+print(age)
+print(attractive)
